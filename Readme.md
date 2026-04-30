@@ -1,9 +1,8 @@
-<!-- HEADER -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  Hola!!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-</h1>
+<h3 align="center">
+  <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" height="40"/>
+  <samp>&gt; Hola, soy Jeisson </samp>
+  <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" height="40"/>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeisson-leonardo-barajas-valero-0563b8273/">
@@ -11,20 +10,21 @@
   </a>
 </p>
 
+
 ---
 
-# 💫 About Me:
+# 💫 Sobre mí:
 Desarrollador frontend con experiencia en React y JavaScript, enfocado en la creación de interfaces web modernas y manejo básico de bases de datos SQL.
 
 ---
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeisson-leonardo-barajas-valero-0563b8273/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeissonleonardo1@gmail.com)
+[![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeissonleonardo1@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tecnologías:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@ Desarrollador frontend con experiencia en React y JavaScript, enfocado en la cre
 
 ---
 
-## ⚙️ Frameworks & Librerías:
+## ⚙️ Frameworks y librerías:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -58,8 +58,6 @@ Desarrollador frontend con experiencia en React y JavaScript, enfocado en la cre
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -67,6 +65,4 @@ Desarrollador frontend con experiencia en React y JavaScript, enfocado en la cre
 - 💡 Apasionado por el desarrollo web  
 - 🎯 Enfocado en frontend con React  
 - 📚 En constante aprendizaje  
-- ⚡ Buscando oportunidades para crecer como desarrollador  
-
----
+- ⚡ Buscando oportunidades laborales  
